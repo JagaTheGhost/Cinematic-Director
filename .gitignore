@@ -1,0 +1,9 @@
+# Temporarily exclude code and development builds for documentation & media release
+lua/
+scripts/
+settings/
+docs/
+scratch/
+CinematicDirector.zip
+mod_info.json
+*.zip
